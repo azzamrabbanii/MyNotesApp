@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Muhammad Azzam/Project Android/MyNotesApp/app/src/main/res/drawable/ic_add.xml" value="0.1065" />
         <entry key="..\:/Users/Muhammad Azzam/Project Android/MyNotesApp/app/src/main/res/layout/activity_main.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/Muhammad Azzam/Project Android/MyNotesApp/app/src/main/res/layout/activity_note_add_update.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/Muhammad Azzam/Project Android/MyNotesApp/app/src/main/res/layout/item_note.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/Muhammad Azzam/Project Android/MyNotesApp/app/src/main/res/menu/menu_form.xml" value="0.2" />
       </map>
     </option>
   </component>
